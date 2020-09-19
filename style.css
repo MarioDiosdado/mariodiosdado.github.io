@@ -1,0 +1,47 @@
+.navbar-nav { 
+    margin-left: auto; 
+} 
+
+nav h1{
+    color: white;
+    background-color: lightseagreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    font-size: 25px;
+
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.container {
+    background-color: white;
+    padding: 30px;
+   
+}
+
+.container h1 {
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+    color: lightseagreen;
+}
+
+img {
+    float: left;
+    margin: 20px;
+    margin-bottom: 10px;
+
+}
+
+.btn-primary {
+    background-color: lightseagreen;
+    
+}
+
+.btn-primary:hover {
+    background-color: rgb(84, 184, 167);
+}
