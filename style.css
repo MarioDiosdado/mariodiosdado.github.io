@@ -1,3 +1,4 @@
+/* Navbar styles */
 .navbar-nav { 
     margin-left: auto; 
 } 
@@ -17,7 +18,7 @@ p {
 body {
     background-color: gainsboro;
 }
-
+/* container stlye */
 .container {
     background-color: white;
     padding: 30px;
@@ -45,14 +46,14 @@ img.float-left {
 .btn-primary:hover {
     background-color: rgb(84, 184, 167);
 }
-
+/* Class to center portfolio */
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
 }
-
+/* Footer styles */
 footer {
     position: absolute;
     bottom: 0;
