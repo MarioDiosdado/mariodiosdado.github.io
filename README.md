@@ -15,4 +15,4 @@ A `style.css` file was created for specific additions to the style of the site.
 
 Deplyoed website: https://mariodiosdado.github.io/
 
-![](/Assets/images/aboutme.jpg)
+![Image of About me page](Assets/images/aboutme.jpg)
