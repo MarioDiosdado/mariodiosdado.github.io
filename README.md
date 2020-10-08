@@ -13,4 +13,6 @@ This project is responsive and was completed mainly using **bootstrap.**
 
 A `style.css` file was created for specific additions to the style of the site.
 
-The project doesn't any have personal info yet (except for picture), we will be adding more as we learn more in class (Contact section funcionality for example) and the portfolio is developed.
+Deplyoed website: https://mariodiosdado.github.io/
+
+![](/Assets/images/aboutme.jpg)
