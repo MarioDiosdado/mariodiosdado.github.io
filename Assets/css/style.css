@@ -1,27 +1,33 @@
-/* Navbar styles */
+
+
 .navbar-nav { 
     margin-left: auto; 
+
 } 
 
-nav h1{
+nav h2{
     color: white;
-    background-color: lightseagreen;
+    
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 p {
-    font-size: 25px;
+    font-size: 20px;
     margin: 20px;
 }
 
 
 body {
+    background-image: url("../Images/background.jpg");
     background-color: gainsboro;
+    
 }
 /* container stlye */
 .container {
     background-color: white;
     padding: 30px;
+    border-style: solid;
+    border-color: black;
    
 }
 
@@ -29,7 +35,7 @@ body {
     font-size: 60px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 300;
-    color: lightseagreen;
+    color: #292b2c;
 }
 
 img.float-left {
@@ -39,7 +45,7 @@ img.float-left {
 }
 
 .btn-primary {
-    background-color: lightseagreen;
+    background-color:#292b2c;
     
 }
 
@@ -62,7 +68,7 @@ footer {
     padding-top: 10px;
     left: 0;
     right: 0;
-    background-color: lightseagreen;
+    background-color: #343a40;
     color: white;
     text-align: center;
 }
